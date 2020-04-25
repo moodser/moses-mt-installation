@@ -11,3 +11,9 @@
 
 ## Acknowledgement
 - Special thanks to Dr. Rao Muhammad Adeel Nawab and Dr. Muhammad Sharjeel for their continous support.
+
+## Usage
+- Run the bash script 
+```
+bash script.sh
+```
