@@ -14,6 +14,8 @@
 
 ## Usage
 - Run the bash script 
-```
-bash script.sh
-```
+  ```
+  bash script.sh
+  ```
+- It will create a folder named 'mt-root' in $HOME directory
+- All of the installation and configurations will be carried out by script automatically
